@@ -1,1 +1,3 @@
 This is story 2, chapter 2!
+
+This is second line of chapter 2.
